@@ -6,5 +6,5 @@ the `requirements.txt` file contains all the necessary libraries needs to be ins
 
 once you're done with installing all required libraries and creating data in BigQuery, you can upload the `polars-analysis.ipynb` notebook in Vertex AI and use the notebook to import, do calculations and export to BigQuery. 
 
-Here is the YouTube link for the detailed Analysis:
+Here is the YouTube link for the detailed Analysis:<br>
 [![Watch the YouTube video](https://i.ytimg.com/an_webp/rjP0bCJ6Alk/mqdefault_6s.webp?du=3000&sqp=CPjVgboG&rs=AOn4CLAh9WDtF9S-VWNzJuOEwuDuzU0j7A)](https://youtu.be/rjP0bCJ6Alk?si=XYq9nC6yKwmGQa0T)
